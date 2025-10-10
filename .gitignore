@@ -1,0 +1,42 @@
+
+# مجلدات و ملفات حزم NuGet
+# مجلد حزم NuGet (يتم عادةً استعادته أثناء بناء المشروع)
+**/packages/
+*.nupkg
+*.snupkg
+
+[Dd]ebug/
+[Rr]elease/
+[Aa]rm/[Dd]ebug/
+[Aa]rm/[Rr]elease/
+[Aa]rm64/[Dd]ebug/
+[Aa]rm64/[Rr]elease/
+[Xx]64/[Dd]ebug/
+[Xx]64/[Rr]elease/
+[Xx]86/[Dd]ebug/
+[Xx]86/[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.suo
+
+*.user
+*.bak
+*.log
+*.vspscc
+*.vssscc
+
+.vs/
+*.vsp
+*.log
+
+# *.sln.ide
+# *.sln.refresh
+
+*.mdf
+*.ldf
+*.sdf
+*.db
+
