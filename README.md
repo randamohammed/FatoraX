@@ -5,6 +5,12 @@ The system helps small businesses manage customers, create invoices, track payme
 
 ---
 
+<p align="center">
+  <img src="https://github.com/randamohammed/FatoraX/blob/master/FatoraX-Demo.gif" width="600"/>
+</p>
+
+---
+
 ## 🚀 Who is this software for?
 
 - 🏪 Small Retail Shops & Boutiques  
