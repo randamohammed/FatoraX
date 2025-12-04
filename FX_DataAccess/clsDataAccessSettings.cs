@@ -10,7 +10,7 @@ namespace FX_DataAccess
 {
     public class clsDataAccessSettings
     {
-        public static string connectionString = "Server=.;Database=FatoraXDB;user id=uorid ;password =yorpasword";
+        public static string connectionString = "Server=.;Database=FatoraXDB;Integrated Security=True;";
 
     
 }
