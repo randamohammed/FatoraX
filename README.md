@@ -33,18 +33,20 @@ Whether you sell products, offer services, or both — **FatoraX** helps you man
 - **.NET Framework / WinForms**
 - **SQL Server**
 - **ADO.NET**
-- **LINQ**
 
 ---
 
 
 ## 📂 Project Structure
+
+```
 FatoraX/
  ├── Forms/                 # UI Forms (Customers, Invoices, Reports)
  ├── Database/              # SQL Scripts & backup files
  ├── Business/              # Business Logic (Invoice, Customer Services)
  ├── Reports/               # Export files
  └── README.md              # Project documentation
+```
 
 ## 🖼 Screenshots
 
