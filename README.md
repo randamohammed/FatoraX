@@ -39,7 +39,6 @@ Whether you sell products, offer services, or both — **FatoraX** helps you man
 
 
 ## 📂 Project Structure
-
 FatoraX/
  ├── Forms/                 # UI Forms (Customers, Invoices, Reports)
  ├── Database/              # SQL Scripts & backup files
@@ -50,11 +49,11 @@ FatoraX/
 ## 🖼 Screenshots
 
 ![Main Screen](Screenshots/MinScreen.jpg)
-![Signin](screenshots/Signin.jpg)
-![Invoice](screenshots/AddInvoice.jpg)
-![Add New User](screenshots/AddNewUser.jpg)
-![Custmar](screenshots/Custmar.jpg)
-![Produce](screenshots/Prodce.jpg)
+![Signin](Screenshots/Signin.jpg)
+![Invoice](Screenshots/AddInvoice.jpg)
+![User](Screenshots/AddNewUser.jpg)
+![Custmar](Screenshots/Custmar.jpg)
+![Produce](Screenshots/Prodce.jpg)
 
 ## ⚙️ How to Run the Project
 
